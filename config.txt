@@ -1,0 +1,9 @@
+en
+# ^
+# |
+# |
+# languaje
+# Français: fr
+# English: en
+# Español: es
+# Português: pr
